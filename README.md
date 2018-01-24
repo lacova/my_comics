@@ -1,4 +1,4 @@
 my_comics
 =========
 
-A Symfony project created on January 23, 2018, 10:10 am.
+A Symfony project created on January 24, 2018, 6:53 pm.

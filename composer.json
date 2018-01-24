@@ -49,22 +49,12 @@
         ]
     },
     "config": {
-<<<<<<< HEAD
         "bin-dir": "bin",
-=======
->>>>>>> 6cac64c3a5399362e584a95d6a5e4899e4143beb
         "sort-packages": true
     },
     "extra": {
         "symfony-app-dir": "app",
-<<<<<<< HEAD
         "symfony-web-dir": "web",
-=======
-        "symfony-bin-dir": "bin",
-        "symfony-var-dir": "var",
-        "symfony-web-dir": "web",
-        "symfony-tests-dir": "tests",
->>>>>>> 6cac64c3a5399362e584a95d6a5e4899e4143beb
         "symfony-assets-install": "relative",
         "incenteev-parameters": {
             "file": "app/config/parameters.yml"
